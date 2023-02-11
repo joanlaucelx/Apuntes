@@ -1,3 +1,8 @@
 Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico
 Capítulo 3: Repositorios remotos
+Estamos aqui aprendiendo la nueva vuelta para hacernos ricos. l..l,
+agregabdo archivo joan
+resolviendo los conflicctos seleccinados los cambios de ambos
+hello
+soy yo joan laucel
